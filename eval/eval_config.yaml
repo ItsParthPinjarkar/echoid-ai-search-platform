@@ -1,0 +1,6 @@
+thresholds:
+  recall_at_5_min: 0.75
+  citation_accuracy_min: 0.90
+  faithfulness_min: 0.85
+  p95_latency_ms_max: 1500
+  error_rate_max: 0.02

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the remote work policy?",
+    "expected_answer": "Employees can work remotely up to 3 days per week with manager approval.",
+    "relevant_doc_ids": ["doc_hr_1"]
+  },
+  {
+    "id": "q2",
+    "question": "How many days of PTO do employees receive?",
+    "expected_answer": "Annual paid time off accrual rate is 20 days per year for full-time employees.",
+    "relevant_doc_ids": ["doc_hr_2"]
+  },
+  {
+    "id": "q3",
+    "question": "What are the security requirements for remote connections?",
+    "expected_answer": "Security policy requires all remote connections to use the corporate VPN with multi-factor authentication.",
+    "relevant_doc_ids": ["doc_hr_1"]
+  },
+  {
+    "id": "q4",
+    "question": "Can unused PTO be rolled over?",
+    "expected_answer": "Unused PTO up to 5 days can be rolled over to the next calendar year.",
+    "relevant_doc_ids": ["doc_hr_2"]
+  }
+]
